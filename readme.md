@@ -39,7 +39,7 @@ pip install vpython
 
 1. Clona este repositorio:
 ```bash
-git clone <URL-del-repositorio>
+git clone <https://github.com/isaultirado77/fixed-double-spring-oscillator>
 ```
 2. Navega al directorio del proyecto:
 ```bash
